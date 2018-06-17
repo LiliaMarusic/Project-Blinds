@@ -7,4 +7,4 @@ For automated script I used:
 -chromedriver
 GoogleChrome Version 67.0.3396.87 (Official Build) (64-bit)
 
-Also, I was able run my solution on command line as well.
+My solution can be run on command line as well.
